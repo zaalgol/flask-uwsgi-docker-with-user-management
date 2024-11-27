@@ -3,3 +3,4 @@
 .vscode/
 instance/
 .env
+logs/
